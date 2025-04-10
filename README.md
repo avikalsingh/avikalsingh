@@ -24,29 +24,23 @@
 
 ## 📌 Featured Projects
 
-### 🧠 [MedTrinity Multimodal AI](https://github.com/avikalsingh/medtrinity)
+### 🧠 [Medical Image Multimodal AI](https://github.com/avikalsingh/monai)
 Deep learning model using images and text to generate clinical labels and descriptions. Inspired by BioMedCLIP & Vision-Language Transformers.  
 **Tech:** PyTorch, CLIP, Transformers, DICOM, NLP, BioClinincalBERT
 > _In progress – classification + text generation models in development_
 
 ---
 
-### 📈 [Data Science Portfolio](https://github.com/avikalsingh/data-portfolio)
-A collection of analytics, EDA, and modeling projects across domains like finance, healthcare, and social media.  
-**Tech:** Python, SQL, Power BI, Pandas, scikit-learn  
-
----
-
-### 🔍 [Text Mining Toolkit](https://github.com/avikalsingh/text-mining)
-Custom NLP tools for keyword extraction, sentiment analysis, and topic modeling across medical and non-medical domains.  
-**Tech:** spaCy, scikit-learn, Gensim, NLTK  
+### 🔍 [Tweet Analytics for Disaster Management](https://github.com/avikalsingh/Tweet-Analytics-for-Disaster-Calamity-Management)
+Analyzes real-time Twitter data during disasters to detect trends, validate information, and enhance public safety through situational awareness and sentiment tracking.
+**Live App:** https://tweet-analytics-for-disaster-calamity-management.streamlit.app/
+**Tech:** Tweepy, Pandas, scikit-learn, NLP, Sentiment Analysis, Keyword Extraction  
 
 ---
 
 ## 🌐 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avikalsingh/)  
-- 📬 Email: avikalsingh02@gmail.com  
-- 🌍 Portfolio (optional link if you want to add one)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/avikal-singh-079ab8184/)  
+- 📬 Email: avikalgangwar1@gmail.com  
 
 ---
 
