@@ -16,7 +16,7 @@
 ## 🛠️ Core Skills & Tools
 - **Languages**: Python, SQL, Bash  
 - **ML/DL**: PyTorch, scikit-learn, HuggingFace, OpenCV  
-- **Data Tools**: Pandas, NumPy, Power BI, Tableau, Alteryx  
+- **Data Tools**: Pandas, NumPy, Power BI, Tableau
 - **Dev/Infra**: Git, Docker, Jupyter, VS Code  
 - **Other**: Statistical Modeling, Cross-functional Communication, Scalable Workflow Design
 
@@ -26,7 +26,7 @@
 
 ### 🧠 [MedTrinity Multimodal AI](https://github.com/avikalsingh/medtrinity)
 Deep learning model using images and text to generate clinical labels and descriptions. Inspired by BioMedCLIP & Vision-Language Transformers.  
-**Tech:** PyTorch, CLIP, Transformers, DICOM, NLP  
+**Tech:** PyTorch, CLIP, Transformers, DICOM, NLP, BioClinincalBERT
 > _In progress – classification + text generation models in development_
 
 ---
