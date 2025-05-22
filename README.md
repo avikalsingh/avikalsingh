@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avikal Singh
 
-🎓 Research Data Scientist | MS in Information Science - Machine Learning @ University of Arizona  
+🎓 Data Scientist | MS in Information Science - Machine Learning @ University of Arizona  
 🔬 Focused on building **AI systems for medical imaging, NLP, and decision support**  
 📊 Turning messy data into clean insights with **Python, SQL, ML, and storytelling**
 
