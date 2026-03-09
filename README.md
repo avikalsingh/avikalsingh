@@ -1,48 +1,72 @@
 # 👋 Hi, I'm Avikal Singh
 
-🎓 Data Scientist | MS in Information Science - Machine Learning @ University of Arizona  
-🔬 Focused on building **AI systems for medical imaging, NLP, and decision support**  
-📊 Turning messy data into clean insights with **Python, SQL, ML, and storytelling**
+🛠️ Data Engineer | AWS Certified Data Engineer (DEA-C01)  
+🎓 MS in Information Science – Machine Learning @ University of Arizona  
+⚙️ Building production ETL/ELT pipelines, cloud data infrastructure, and scalable data systems with **Python, SQL, dbt, Snowflake, and AWS**
 
 ---
 
-## 🚀 What I’m Working On
-- **MedTrinity AI** – Multimodal deep learning model that generates medical reports and classification labels from diagnostic images.  
-- Researching **CLIP-style architectures** for image-text representation learning in healthcare.  
-- Building scalable **ETL pipelines**, performing **model interpretability analysis**, and exploring **segmentation tasks** next.
+## 🚀 What I'm Working On
+- **Real-Time Streaming Data Pipeline (Azure)** *(in progress)* – End-to-end streaming pipeline ingesting simulated high-velocity transactional data via **Azure Event Hubs**, processing with **Apache Spark Structured Streaming on Databricks**, orchestrated through **Azure Data Factory**, and surfacing aggregated metrics through a unified **One Big Stream** consumption layer
+- Extending the **Airbnb Analytics Pipeline** with **Apache Airflow DAG orchestration** for scheduled dbt model runs and ingestion task management
+- Exploring **data quality frameworks** and automated schema testing with dbt tests and alerts
 
 ---
 
 ## 🛠️ Core Skills & Tools
-- **Languages**: Python, SQL, Bash  
-- **ML/DL**: PyTorch, scikit-learn, HuggingFace, OpenCV  
-- **Data Tools**: Pandas, NumPy, Power BI, Tableau
-- **Dev/Infra**: Git, Docker, Jupyter, VS Code  
-- **Other**: Statistical Modeling, Cross-functional Communication, Scalable Workflow Design
+
+**Data Engineering & Pipelines**  
+ETL/ELT Development · dbt Core · Apache Airflow · Apache Spark (Structured Streaming) · Pipeline Orchestration · Data Modeling · Schema Design · Data Quality & Testing
+
+**Cloud & Storage Infrastructure**  
+Amazon S3 · Amazon Redshift · AWS Glue · Snowflake · Azure Event Hubs · Azure Data Factory · Databricks · Docker · CI/CD (GitHub Actions)
+
+**Databases & Warehousing**  
+MySQL · Snowflake SQL · Star Schema · Query Optimization · Indexing · Distributed Data Processing
+
+**Languages**  
+Python (pandas, NumPy) · SQL · Bash · R
+
+**Analytics & Visualization**  
+Tableau · Power BI · Streamlit
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 [Medical Image Multimodal AI](https://github.com/avikalsingh/monai)
-Deep learning model using images and text to generate clinical labels and descriptions. Inspired by BioMedCLIP & Vision-Language Transformers.  
-**Tech:** PyTorch, CLIP, Transformers, DICOM, NLP, BioClinincalBERT
-> _In progress – classification + text generation models in development_
+### 🏗️ Airbnb Analytics Pipeline – AWS · Snowflake · dbt · [GitHub](https://github.com/avikalsingh/AirBnb_Data_Engineer_Project_with_Snowflake_DBT) · [Live App](https://airbnbwithdbt.streamlit.app/)
+Production-grade ELT pipeline ingesting raw Airbnb data from AWS S3 into Snowflake via IAM-authenticated external stages. Implements **Medallion Architecture** (Bronze → Silver → Gold) using dbt Core with reusable Jinja macros, schema tests, and SCD Type 2 snapshots for historical tracking.
+
+**Highlights:**
+- Denormalized One Big Table (OBT) gold layer for analytics consumption
+- Live Streamlit dashboard surfacing KPIs across pricing, occupancy, and host metrics
+- Airflow orchestration for DAG-based scheduling *(in progress)*
+
+**Tech:** AWS S3 · Snowflake · dbt Core · Apache Airflow · Streamlit · Python · SQL
 
 ---
 
-### 🔍 [Tweet Analytics for Disaster Management](https://github.com/avikalsingh/Tweet-Analytics-for-Disaster-Calamity-Management)
-Analyzes real-time Twitter data during disasters to detect trends, validate information, and enhance public safety through situational awareness and sentiment tracking.
-**Live App:** https://tweet-analytics-for-disaster-calamity-management.streamlit.app/
-**Tech:** Tweepy, Pandas, scikit-learn, NLP, Sentiment Analysis, Keyword Extraction  
+### 🔬 [Medical Imaging Data Infrastructure – VSI Labs](https://github.com/avikalsingh/monai)
+Consolidated heterogeneous multi-source data (diagnostic images, clinical reports, diagnostic labels) from 3 distributed storage locations into a unified structured dataset of 119,533 records. Built modular ingestion and transformation pipelines enabling reproducible execution across experimental research configurations.
+
+**Tech:** Python · pandas · NumPy · PyTorch · DICOM · SQL
 
 ---
 
-## 🌐 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avikal-singh-079ab8184/)  
-- 📬 Email: avikalgangwar1@gmail.com  
+### 📡 [Tweet Analytics for Disaster Management](https://tweet-analytics-for-disaster-calamity-management.streamlit.app/)
+End-to-end NLP pipeline classifying disaster-related tweets with real-time Streamlit visualization for situational awareness and decision support.
+
+**Tech:** Python · Tweepy · scikit-learn · NLP · Streamlit
 
 ---
 
-> “The goal is to turn data into insight, and insight into action.”  
-> — Avikal Singh
+## 🏅 Certifications
+- **AWS Certified Data Engineer – Associate (DEA-C01)** · Amazon Web Services · June 2025  
+  [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/6abbddad866a45fa92a00e21605a4ceb)
+
+---
+
+## 🌐 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/avikal-singh-079ab8184/)
+- 🌐 [Portfolio](https://avikalsingh.vercel.app/)
+- 📬 avikalgangwar1@gmail.com
