@@ -17,9 +17,9 @@
 
 ## About
 
-I build AI systems end-to-end — from raw data ingestion to model inference to agentic workflows — and I care about what happens to the data before it reaches the model.
+I build AI systems end-to-end from raw data ingestion to model inference to agentic workflows, and I care about what happens to the data before it reaches the model.
 
-Most AI engineers treat infrastructure as someone else's problem. I don't. My background spans multimodal ML (published at SPIE Medical Imaging), real-time streaming pipelines (Azure EventHub → Databricks → Delta Lake), and LLM-powered agentic systems — all built on production-grade data foundations.
+Most AI engineers treat infrastructure as someone else's problem. I don't. My background spans multimodal ML, real-time streaming pipelines (Azure EventHub → Databricks → Delta Lake), and LLM-powered agentic systems, all built on production-grade data foundations.
 
 **Current focus:** Healthcare AI, agentic systems with RAG + tool calling, and LLM fine-tuning under resource constraints (PEFT/LoRA, 4-bit quantization).
 
